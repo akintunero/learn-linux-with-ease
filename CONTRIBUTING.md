@@ -9,8 +9,8 @@ privately as described in [SECURITY.md](SECURITY.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/Linux-Projects.git
-cd Linux-Projects
+git clone https://github.com/<you>/learn-linux-with-ease.git
+cd learn-linux-with-ease
 git checkout -b fix/short-description
 
 make setup    # Debian/Ubuntu/WSL: installs bats, shellcheck, shfmt, jq

@@ -5,7 +5,7 @@ can safely break, and a kernel of its own. When you ruin it, `vagrant destroy` a
 
 > [!NOTE]
 > These Vagrantfiles have not been run in CI. If a step fails on your machine, please open a
-> [lesson feedback issue](https://github.com/akintunero/Linux-Projects/issues/new/choose).
+> [lesson feedback issue](https://github.com/akintunero/learn-linux-with-ease/issues/new/choose).
 
 ## Intel / AMD (Windows, Linux, macOS Intel)
 

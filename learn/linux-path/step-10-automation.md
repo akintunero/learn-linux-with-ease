@@ -243,7 +243,7 @@ jobs:
       - run: bats --timing tests/
 ```
 
-See the live file: [`.github/`](https://github.com/akintunero/Linux-Projects/tree/main/.github) — this repository's continuous integration, which verifies every shell script with ShellCheck, shfmt and Bats on each change.
+See the live file: [`.github/`](https://github.com/akintunero/learn-linux-with-ease/tree/main/.github) — this repository's continuous integration, which verifies every shell script with ShellCheck, shfmt and Bats on each change.
 
 **Verify it worked (typical):** open the "Actions" tab of this repo on GitHub; the latest run shows all jobs green. A failing job lists the exact script and ShellCheck warning.
 
@@ -276,6 +276,6 @@ See the live file: [`.github/`](https://github.com/akintunero/Linux-Projects/tre
 - [Ansible documentation](https://docs.ansible.com/): inventory, modules, and playbook language.
 - [Terraform getting started](https://developer.hashicorp.com/terraform/tutorials): `init`, `plan`, `apply`, `destroy`.
 - [GitHub Actions docs](https://docs.github.com/en/actions): workflow syntax and the `actions/checkout` action.
-- [This repo's CI](https://github.com/akintunero/Linux-Projects/actions): the worked example of linting and testing shell scripts on every change.
+- [This repo's CI](https://github.com/akintunero/learn-linux-with-ease/actions): the worked example of linting and testing shell scripts on every change.
 
 **Next:** [Step 11: Virtualization and Containers](step-11-virtualization-and-containers.md)

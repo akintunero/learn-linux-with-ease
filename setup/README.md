@@ -34,8 +34,8 @@ You get a clean Ubuntu 24.04 with every tool the lessons use (`shellcheck`, `bat
 Without VS Code, build and enter it by hand:
 
 ```bash
-docker build -t linux-projects .devcontainer
-docker run -it --rm -v "$PWD":/workspaces/Linux-Projects linux-projects
+docker build -t learn-linux-with-ease .devcontainer
+docker run -it --rm -v "$PWD":/workspaces/learn-linux-with-ease learn-linux-with-ease
 ```
 
 **Limits.** A container shares the host kernel and has no `systemd` by default. Lessons on services,
@@ -54,8 +54,8 @@ Restart, open *Ubuntu* from the Start menu, then inside it:
 ```bash
 sudo apt-get update
 sudo apt-get install -y git make bats shellcheck shfmt jq
-git clone https://github.com/akintunero/Linux-Projects.git
-cd Linux-Projects
+git clone https://github.com/akintunero/learn-linux-with-ease.git
+cd learn-linux-with-ease
 make check
 ```
 

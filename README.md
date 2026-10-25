@@ -1,6 +1,6 @@
-# Linux-Projects
+# Learn Linux with Ease
 
-[![CI](https://github.com/akintunero/Linux-Projects/actions/workflows/ci.yml/badge.svg)](https://github.com/akintunero/Linux-Projects/actions/workflows/ci.yml)
+[![CI](https://github.com/akintunero/learn-linux-with-ease/actions/workflows/ci.yml/badge.svg)](https://github.com/akintunero/learn-linux-with-ease/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Linux and Bash lessons with exercises and solutions, a few small scripts to read and extend, and a test
@@ -37,8 +37,8 @@ They share the helpers in [lib/common.sh](lib/common.sh). The tests are in [test
 ## Getting started
 
 ```bash
-git clone https://github.com/akintunero/Linux-Projects.git
-cd Linux-Projects
+git clone https://github.com/akintunero/learn-linux-with-ease.git
+cd learn-linux-with-ease
 projects/todo-list/todo.sh add "Learn Linux"
 projects/todo-list/todo.sh list
 ```
@@ -58,7 +58,7 @@ needs `docker`. A [dev container](.devcontainer/devcontainer.json) with everythi
 
 Corrections, new exercises and better explanations are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the
 [style guide](docs/style-guide.md). If a lesson confused you or a command failed, open a
-[lesson feedback issue](https://github.com/akintunero/Linux-Projects/issues/new/choose). Report security
+[lesson feedback issue](https://github.com/akintunero/learn-linux-with-ease/issues/new/choose). Report security
 problems as described in [SECURITY.md](SECURITY.md).
 
 ## License

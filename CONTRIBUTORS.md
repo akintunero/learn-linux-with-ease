@@ -1,6 +1,6 @@
 # Contributors
 
-Thank you to all the amazing contributors who have helped make Linux-Projects a valuable resource for the Linux and Bash scripting community!
+Thank you to all the amazing contributors who have helped make learn-linux-with-ease a valuable resource for the Linux and Bash scripting community!
 
 ## Project Maintainer
 
@@ -130,8 +130,8 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) before making contrib
 For questions about contributing or to discuss ideas:
 
 - **Email**: <akintunero101@gmail.com>
-- **GitHub Issues**: [Create an issue](https://github.com/akintunero/Linux-Projects/issues)
-- **GitHub Discussions**: [Join discussions](https://github.com/akintunero/Linux-Projects/discussions)
+- **GitHub Issues**: [Create an issue](https://github.com/akintunero/learn-linux-with-ease/issues)
+- **GitHub Discussions**: [Join discussions](https://github.com/akintunero/learn-linux-with-ease/discussions)
 
 ---
 

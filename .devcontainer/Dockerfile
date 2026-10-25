@@ -29,5 +29,5 @@ RUN (id ubuntu >/dev/null 2>&1 && userdel -r ubuntu || true) \
     && chmod 0440 /etc/sudoers.d/${USERNAME}
 
 USER ${USERNAME}
-WORKDIR /workspaces/Linux-Projects
+WORKDIR /workspaces/learn-linux-with-ease
 CMD ["bash"]

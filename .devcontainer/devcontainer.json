@@ -1,5 +1,5 @@
 {
-  "name": "Linux-Projects sandbox",
+  "name": "learn-linux-with-ease sandbox",
   "build": { "dockerfile": "Dockerfile" },
   "remoteUser": "learner",
   "customizations": {
